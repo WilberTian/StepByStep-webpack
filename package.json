@@ -1,0 +1,17 @@
+{
+  "name": "stepbystep-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WilberTian",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.29.6"
+  },
+  "dependencies": {
+    "webpack-cli": "^3.3.0"
+  }
+}
