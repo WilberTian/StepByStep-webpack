@@ -1,4 +1,6 @@
 import {add} from './utils';
+import {mul} from './libs'
 
-const result = add(6, 8);
-console.log(result);
+console.log(add(6, 8));
+
+conosle.log(mul(3, 4));
